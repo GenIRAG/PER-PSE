@@ -101,5 +101,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🔭 Citation
 If you find this work helpful, please cite our paper:
 ```bibtex
-Coming Soon
+@inproceedings{liu2025beyond,
+  title={Beyond the Answer: Advancing Multi-Hop QA with Fine-Grained Graph Reasoning and Evaluation},
+  author={Liu, Qichuan and Zhang, Chentao and Zheng, Chenfeng and Hu, Guosheng and Li, Xiaodong and Zhang, Zhihong},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={23433--23456},
+  year={2025}
+}
 ```
