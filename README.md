@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-[![Paper](https://img.shields.io/badge/Paper-ACL-red)]() [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GenIRAG/PER-PSE/blob/main/LICENSE) [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3112/) 
+[![Paper](https://img.shields.io/badge/Paper-ACL-red)](https://aclanthology.org/2025.acl-long.1142/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GenIRAG/PER-PSE/blob/main/LICENSE) [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3112/) 
 </div>
 
 ## ✨ Overview
